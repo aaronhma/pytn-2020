@@ -1,5 +1,5 @@
 # PyTennessee 2020 GitHub Repository
-Code snippets + slides from PyTennessee 2020
+Code snippets + slides from PyTennessee 2020 from my talk, ```Machine Learning for Everyone!```.
 
 ## Slide
 Slides are available from:
