@@ -12,8 +12,8 @@ Slides are available from:
 
 ## Demos
 ### 1. Fashion MNIST Demo
-* Google Colaboratory Link*(recommended)*: https://bit.ly/pycon20-fm 
-* GitHub Link*(workbook)*: https://github.com/aaronhma/pytn-2020/blob/master/Fashion_MNIST_Demo.ipynb
+* Google Colaboratory Link *(recommended)*: https://bit.ly/pycon20-fm 
+* GitHub Link *(workbook)*: https://github.com/aaronhma/pytn-2020/blob/master/Fashion_MNIST_Demo.ipynb
 
 ### 2. Grand Finale(Teachable Machine)
 * Link: https://bit.ly/pycon20-3 
