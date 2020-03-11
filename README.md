@@ -1,8 +1,12 @@
 # PyTennessee 2020 GitHub Repository
 Code snippets + slides from PyTennessee 2020
 
-## Slides
-Slides are available from Google Slides: https://bit.ly/pycon20 or from GitHub: https://github.com/aaronhma/pytn-2020/blob/master/3_7_20%20PyCon%20Tennessee.pdf
+## Slide
+Slides are available from:
+
+* Google Slides: https://bit.ly/pycon20
+ -- or from --
+* GitHub: https://github.com/aaronhma/pytn-2020/blob/master/3_7_20%20PyCon%20Tennessee.pdf
 
 ## Demos
 ### 1. Fashion MNIST Demo
